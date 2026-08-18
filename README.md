@@ -1,3 +1,9 @@
+# Name
+David Gomez
+
+# Website
+https://github.com/amezingdace-maker
+
 # HW04 — UX + Tailwind CSS
 
 **Week 4 · DSAW · Universidad de La Sabana**
